@@ -12,8 +12,8 @@
    <li>Javascript</li>
    <li>Node/Express</li>
    <li>React</li>
-   <li>backend API</li>
-   <li>backend API</li>
+   <li>Angular</li>
+   <li>PHP</li>
    <li>ReactJS / NextJS (Context-api, Redux, Redux-toolkit, Bootstrap, Tailwind-css) </li>
    <li>,XML, JSON and others.</li>
    </ul>
@@ -23,7 +23,7 @@
               <li>MySQL </li>
                <li>MS Access </li> 
                  <li>MariaDB </li>
-                  <li>Oracle and others </li>
+                  <li>MongoDB </li>
               </ul?
                     <p> Feel free to interact with me</p>
   </body>
