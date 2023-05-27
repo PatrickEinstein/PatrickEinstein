@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&customColorList=0,2,2,2,2,3&animation=twinkling&height=300&section=header&text=Patrick%20Einstein&fontSize=80" />
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Tools I am using</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
