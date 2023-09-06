@@ -21,6 +21,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="php" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="php" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="php" width="45" height="45"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/C#.svg" alt="php" width="45" height="45"/>
 </p>
 
 Here are some ideas to get you started:
