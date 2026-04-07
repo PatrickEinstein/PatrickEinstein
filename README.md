@@ -1,86 +1,74 @@
-# 👋 Hi, I'm YOUR_NAME
+# 👋 Hi, I'm Patrick
 
-### 🚀 Full Stack Engineer | Backend Specialist | System Designer
+<h3 align="center">🚀 Full Stack Engineer | Backend Specialist | System Designer</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Backend+Engineer;Node.js+%7C+.NET+Developer;Scalable+System+Designer;API+%26+Microservices+Specialist)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=500&lines=Backend+Engineer;Node.js+%7C+.NET+Developer;Scalable+System+Designer;Microservices+%26+API+Specialist" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
 - 💻 I build **scalable backend systems** and high-performance APIs  
-- ⚙️ Experienced with **microservices architecture & distributed systems**  
-- 🔄 Strong focus on **performance, reliability, and clean architecture**  
-- 🌍 Currently building **automation systems & real-time applications**  
+- ⚙️ Experienced with **microservices & distributed systems**  
+- 🔄 Focused on **performance, reliability, and clean architecture**  
+- 🌍 Building **automation systems & real-time applications**  
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ Tech Stack
 
-### 🚀 Backend
-![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
-![Express](https://img.shields.io/badge/-Express-000?&logo=express)
-
-### ⚡ Frontend
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Vite](https://img.shields.io/badge/-Vite-000?&logo=vite)
-
-### 🗄️ Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-
-### 🧠 Architecture & Tools
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=rabbitmq)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=nginx)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,react,postgresql,docker,nginx,rabbitmq,ts,js" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PatrickEinstein&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=PatrickEinstein&theme=radical&hide_border=true" width="48%" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickEinstein&layout=compact&theme=radical&hide_border=true" width="40%" />
+</p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PatrickEinstein&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PatrickEinstein&theme=radical&no-frame=true&row=1&margin-w=15" />
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+🚧 *(Pin these repos on your profile for visibility)*
+
+- 🔹 **Scalable Microservices API** — Node.js + RabbitMQ  
+- 🔹 **Real-time Dashboard System** — Socket.IO  
+- 🔹 **Auth Server** — .NET + JWT  
+- 🔹 **Automation Platform** — Multi-service architecture  
 
 ---
 
 ## 🔥 Current Focus
 
-- 🧩 Building **scalable microservices systems**
-- ⚡ Optimizing **high-throughput APIs**
-- 🔄 Implementing **event-driven architectures (RabbitMQ)**
-- 🌐 Developing **real-time dashboards & automation tools**
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: (add your link)
-- 🌐 Portfolio: (add your site)
-- 📧 Email: (optional)
-
----
-
-## 👀 Profile Views
-
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-
----
-
-## ⚡ Fun Fact
-
-> I don’t just write code — I design systems that scale 🚀
+```txt
+→ Scaling distributed systems
+→ Optimizing API performance
+→ Designing resilient architectures
+→ Building automation & messaging systems
