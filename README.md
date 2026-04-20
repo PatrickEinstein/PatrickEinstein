@@ -10,9 +10,12 @@
 
 ---
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3IxZGFta3h6MmFxNWo0eWt1cXI4NHpiOGllMjI2aGE1YWV3NDdsMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IMOTcqOtaEkXiBonLU/giphy.gif" width="100%"><br>
 
 
 ## 🕶️ █ DECRYPTING TARGET PROFILE █
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3IxZGFta3h6MmFxNWo0eWt1cXI4NHpiOGllMjI2aGE1YWV3NDdsMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A06UFEx8jxEwU/giphy.gif" width="100%">
 
 ```bash
 $ cat about_me.txt
@@ -24,6 +27,9 @@ $ cat about_me.txt
 - 🌍 **Building** automation engines & real-time payloads  
 
 ---
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3IxZGFta3h6MmFxNWo0eWt1cXI4NHpiOGllMjI2aGE1YWV3NDdsMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4knozU8q9AXvpod9qy/giphy.gif" width="100%">
+<br>
 
 ## 💀 LOADED WEAPONS (Tech Stack)
 
@@ -100,3 +106,5 @@ $ cat about_me.txt
 
 > ⚡ **“Code like a ghost in the machine.”**  
 > `[ LOG_LEVEL: DEBUG ]` 
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2NtY2l2aWh2dXdxemVoOGZvb3NydXNnOG91Mmc4ZDg3c3NvMDZhaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fZrZ14nCS90KXgOlCj/giphy.gif" width="100%"/>
