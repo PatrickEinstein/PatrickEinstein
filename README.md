@@ -108,3 +108,13 @@ $ cat about_me.txt
 > `[ LOG_LEVEL: DEBUG ]` 
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2NtY2l2aWh2dXdxemVoOGZvb3NydXNnOG91Mmc4ZDg3c3NvMDZhaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fZrZ14nCS90KXgOlCj/giphy.gif" width="100%"/>
+
+
+
+> `>_ cat something -b -m`  
+**Patrick** - I LOVE WHAT I DO !!!
+
+
+<br>
+<img width="100%" alt="Wallpaper" src="https://github.com/user-attachments/assets/2194d161-172d-4a3e-9ded-37613eee3388" />
+
